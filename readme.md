@@ -55,7 +55,6 @@ Create a function that returns a boolean true or false.
 
 A student has an excellent grade if they score higher than 8.
 Add on to your function to print out "Excellent" for scores greater than 8.
-
 #### Part 3
 
 A student has a perfect grade if their score is 11.
